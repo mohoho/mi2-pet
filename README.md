@@ -1,24 +1,6 @@
 # 觅2 · Qoder 桌面宠物
 
-## 在线预览
-
-**<https://mi2-pet-animations-e952iuq3fe9.qoder.website>**
-
-![精灵图](dist/mi2/spritesheet.png)
-
 一张 8 列 × 9 行的精灵图，9 种状态；下面每张 GIF 就是精灵图对应那一行的实际帧序与节奏。
-
-## 安装
-
-把 `dist/mi2/` 整个目录拷到 Qoder 的宠物目录下，然后**重启 Qoder**：
-
-```
-~/.petdex/pets/mi2/          # Windows: C:\Users\<你>\.petdex\pets\mi2\
-├── pet.json
-└── spritesheet.png
-```
-
-精灵图只在 Qoder 启动时读一次，不重启看不到变化。
 
 ## 9 种状态
 
@@ -35,6 +17,24 @@
 | 8 | review 审查 | 6 | <img src="assets/review.gif" width="150"> |
 
 每行的帧数和播放节奏由 Qoder 运行时写死，包侧改不了；没用到的列留透明即可。
+
+## 在线预览
+
+**<https://mi2-pet-animations-e952iuq3fe9.qoder.website>**
+
+![精灵图](dist/mi2/spritesheet.png)
+
+## 安装
+
+把 `dist/mi2/` 整个目录拷到 Qoder 的宠物目录下，然后**重启 Qoder**：
+
+```
+~/.petdex/pets/mi2/          # Windows: C:\Users\<你>\.petdex\pets\mi2\
+├── pet.json
+└── spritesheet.png
+```
+
+精灵图只在 Qoder 启动时读一次，不重启看不到变化。
 
 ## 内容
 
