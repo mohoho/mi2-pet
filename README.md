@@ -16,8 +16,6 @@
 | 等待 `waiting` · 6 帧 | 干活中 `running` · 6 帧 | 审查 `review` · 6 帧 |
 | <img src="assets/waiting.gif" width="110"> | <img src="assets/running.gif" width="110"> | <img src="assets/review.gif" width="110"> |
 
-每行的帧数和播放节奏由 Qoder 运行时写死，包侧改不了；没用到的列留透明即可。
-
 ## 安装
 
 把 `dist/mi2/` 整个目录拷到 Qoder 的宠物目录下，然后**重启 Qoder**：
