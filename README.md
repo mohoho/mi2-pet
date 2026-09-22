@@ -2,6 +2,12 @@
 
 一张 8 列 × 9 行的精灵图，9 种状态；下面每张 GIF 就是精灵图对应那一行的实际帧序与节奏。
 
+## 在线预览
+
+**<https://mi2-pet-animations-e952iuq3fe9.qoder.website>**
+
+![精灵图](dist/mi2/spritesheet.png)
+
 ## 9 种状态
 
 | 行 | 名字 | 帧数 | 动画 |
@@ -17,12 +23,6 @@
 | 8 | review 审查 | 6 | <img src="assets/review.gif" width="150"> |
 
 每行的帧数和播放节奏由 Qoder 运行时写死，包侧改不了；没用到的列留透明即可。
-
-## 在线预览
-
-**<https://mi2-pet-animations-e952iuq3fe9.qoder.website>**
-
-![精灵图](dist/mi2/spritesheet.png)
 
 ## 安装
 
