@@ -1,0 +1,12 @@
+# 调试脚本与中间截图（都以 _ 开头，不入库）
+_*
+
+# Python
+__pycache__/
+*.pyc
+
+# 本地站点描述符：含本机绝对路径与云端 ID，不入库
+*.qoder.site
+
+# 早期试生成的空文件
+dist/anim-0-idle.webp
