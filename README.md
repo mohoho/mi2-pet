@@ -2,12 +2,7 @@
 
 一张 8 列 × 9 行的精灵图，9 种状态。
 
-## 在线预览
-
-**<https://mi2-pet-animations-e952iuq3fe9.qoder.website>**
-
-下面每张 GIF 就是精灵图对应那一行的实际帧序与节奏：
-
+## 预览
 | 待机 `idle` · 6 帧 | 向右跑 `runningRight` · 8 帧 | 向左跑 `runningLeft` · 8 帧 |
 |:--:|:--:|:--:|
 | <img src="assets/idle.gif" width="110"> | <img src="assets/runningRight.gif" width="110"> | <img src="assets/runningLeft.gif" width="110"> |
@@ -43,5 +38,5 @@
 
 ## 素材来源
 
-图中角色与动画**非本人原创**，素材来自 B 站 UP 主 [space.bilibili.com/1238329219](https://space.bilibili.com/1238329219)。
-本仓库只做精灵图切帧、抠像与排版，版权归原作者所有，仅供个人学习使用，请勿商用。
+素材来自 B 站 UP 主 [space.bilibili.com/1238329219](https://space.bilibili.com/1238329219)。
+版权归原作者所有，仅供个人学习使用。
