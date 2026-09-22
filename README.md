@@ -32,7 +32,7 @@
 | 1 | runningRight 向右跑 | 8 | | 6 | waiting 等待 | 6 |
 | 2 | runningLeft 向左跑 | 8 | | 7 | running 干活中 | 6 |
 | 3 | waving 招手 | 4 | | 8 | review 审查 | 6 |
-| 4 | jumping 肌肉形态 | 5 | | | | |
+| 4 | jumping 被抓住 | 5 | | | | |
 
 每行的帧数和播放节奏由 Qoder 运行时写死，包侧改不了；没用到的列留透明即可。
 
