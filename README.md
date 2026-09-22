@@ -1,8 +1,12 @@
 # 觅2 · Qoder 桌面宠物
 
-自己画的蜂，做成 Qoder 桌宠包（petdex v1）：一张 8 列 × 9 行的精灵图，9 种状态。
+## 在线预览
+
+**<https://mi2-pet-animations-e952iuq3fe9.qoder.website>**
 
 ![精灵图](dist/mi2/spritesheet.png)
+
+一张 8 列 × 9 行的精灵图，9 种状态。
 
 ## 安装
 
@@ -41,4 +45,7 @@
 8 列 × 9 行；`cellWidth × 13 == cellHeight × 12`（本宠 192 × 208），且 `cellW ≥ 48`、`cellH ≥ 52`；
 文件 ≤ 32 MB；`pet.json` 的 `id` 必须等于目录名；`spritesheet.png` 与 `spritesheet.webp` 只能存在一个。
 
-在线预览：<https://mi2-pet-animations-e952iuq3fe9.qoder.website>
+## 素材来源
+
+图中角色与动画**非本人原创**，素材来自 B 站 UP 主 [space.bilibili.com/1238329219](https://space.bilibili.com/1238329219)。
+本仓库只做精灵图切帧、抠像与排版，版权归原作者所有，仅供个人学习使用，请勿商用。
