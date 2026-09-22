@@ -1,26 +1,20 @@
 # 觅2 · Qoder 桌面宠物
 
-一张 8 列 × 9 行的精灵图，9 种状态；下面每张 GIF 就是精灵图对应那一行的实际帧序与节奏。
+一张 8 列 × 9 行的精灵图，9 种状态。
 
 ## 在线预览
 
 **<https://mi2-pet-animations-e952iuq3fe9.qoder.website>**
 
-![精灵图](dist/mi2/spritesheet.png)
+下面每张 GIF 就是精灵图对应那一行的实际帧序与节奏：
 
-## 9 种状态
-
-| 行 | 名字 | 帧数 | 动画 |
-|---|---|---|---|
-| 0 | idle 待机 | 6 | <img src="assets/idle.gif" width="150"> |
-| 1 | runningRight 向右跑 | 8 | <img src="assets/runningRight.gif" width="150"> |
-| 2 | runningLeft 向左跑 | 8 | <img src="assets/runningLeft.gif" width="150"> |
-| 3 | waving 招手 | 4 | <img src="assets/waving.gif" width="150"> |
-| 4 | jumping 被抓住 | 5 | <img src="assets/jumping.gif" width="150"> |
-| 5 | failed 出错 | 8 | <img src="assets/failed.gif" width="150"> |
-| 6 | waiting 等待 | 6 | <img src="assets/waiting.gif" width="150"> |
-| 7 | running 干活中 | 6 | <img src="assets/running.gif" width="150"> |
-| 8 | review 审查 | 6 | <img src="assets/review.gif" width="150"> |
+| 待机 `idle` · 6 帧 | 向右跑 `runningRight` · 8 帧 | 向左跑 `runningLeft` · 8 帧 |
+|:--:|:--:|:--:|
+| <img src="assets/idle.gif" width="110"> | <img src="assets/runningRight.gif" width="110"> | <img src="assets/runningLeft.gif" width="110"> |
+| 招手 `waving` · 4 帧 | 被抓住 `jumping` · 5 帧 | 出错 `failed` · 8 帧 |
+| <img src="assets/waving.gif" width="110"> | <img src="assets/jumping.gif" width="110"> | <img src="assets/failed.gif" width="110"> |
+| 等待 `waiting` · 6 帧 | 干活中 `running` · 6 帧 | 审查 `review` · 6 帧 |
+| <img src="assets/waiting.gif" width="110"> | <img src="assets/running.gif" width="110"> | <img src="assets/review.gif" width="110"> |
 
 每行的帧数和播放节奏由 Qoder 运行时写死，包侧改不了；没用到的列留透明即可。
 
