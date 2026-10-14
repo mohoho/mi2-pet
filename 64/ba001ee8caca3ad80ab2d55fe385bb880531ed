@@ -1,0 +1,19 @@
+README.md
+  s_41f139964b3b8c::t_29f36f02703f49 5
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.4.49-trip",
+  "base_commit_sha": "64ba001ee8caca3ad80ab2d55fe385bb880531ed",
+  "prompts": {},
+  "sessions": {
+    "s_41f139964b3b8c": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a1383c-3755-7de3-b0f5-7bf9f722b6e0",
+        "model": "deepseek-v4.1-flash[1M]"
+      },
+      "human_author": "qmruan <qmruan@trip.com>"
+    }
+  }
+}
