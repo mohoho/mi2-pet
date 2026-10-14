@@ -2,7 +2,7 @@
 
 一张 8 列 × 9 行的精灵图，9 种状态。
 
-已发布到 [Petdex](https://petdex.dev/pets/mi2)，不再只限 Qoder——ChatGPT（Codex）、Qoder、Claude Code、Gemini CLI、OpenCode、Kimi Code、CodeBuddy、OMP 都能装。
+已发布到 [Petdex](https://petdex.dev/pets/mi2)，ChatGPT（Codex）、Qoder、Claude Code、Gemini CLI、OpenCode、Kimi Code、CodeBuddy、OMP 都能装。
 
 ## 预览
 | 待机 `idle` · 6 帧 | 向右跑 `runningRight` · 8 帧 | 向左跑 `runningLeft` · 8 帧 |
